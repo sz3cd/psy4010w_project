@@ -2,7 +2,7 @@
 title: "Psych 4010W Project: <insert title>"
 shorttitle: "<insert short title>"
 author:
-  - name: Your Name
+  - name: Sakeena Zahra
     affiliations: University of Missouri
     corresponding: true
 abstract: "A brief summary of the paper goes here."
